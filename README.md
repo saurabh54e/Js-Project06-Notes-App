@@ -1,6 +1,6 @@
-## Day 6/30 – Notes App
+## Project 6 of my 30 JavaScript Projects Challenge. – Notes App
 
-As part of my 30 Days JavaScript Challenge, I built a clean and responsive Notes App using Vanilla JavaScript that allows users to create, edit, and manage notes seamlessly with real-time persistence.
+As part of my 30 Projects JavaScript Challenge, I built a clean and responsive Notes App using Vanilla JavaScript that allows users to create, edit, and manage notes seamlessly with real-time persistence.
 
 This project focuses on building dynamic UI components, handling user interactions, and maintaining application state using Local Storage.
 
@@ -42,7 +42,7 @@ Last edited timestamp
 
 🌐 Live Demo
 
-👉 https://saurabh54e.github.io/Js-Day06-Notes-App/
+👉 https://saurabh54e.github.io/Js-Project06-Notes-App/
 
 ## Author
 
