@@ -55,13 +55,13 @@ The application uses dynamic DOM manipulation and Local Storage to manage notes 
 
 ## Live Demo
 
-[View Live Demo](https://saurabh54e.github.io/Js-Project06-Notes-App/)
+(https://saurabh54e.github.io/Js-Project06-Notes-App/)
 
 ---
 
 ## GitHub Repository
 
-[View GitHub Repository](https://github.com/saurabh54e/Js-Project06-Notes-App/)
+(https://github.com/saurabh54e/Js-Project06-Notes-App/)
 
 ---
 
